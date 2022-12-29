@@ -1,0 +1,5 @@
+[functions]
+external_node_modules = ["node-fetch"]
+
+[[plugins]]
+  package = "@netlify/plugin-emails"
